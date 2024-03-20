@@ -1,0 +1,5 @@
+﻿  Tab01_2.cpp
+C:\Users\student\Source\Repos\Tab01\Tab01_2\Tab01_2.cpp(100,42): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\student\Source\Repos\Tab01\Tab01_2\Tab01_2.cpp(101,41): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\student\Source\Repos\Tab01\Tab01_2\Tab01_2.cpp(102,40): warning C4305: инициализация: усечение из "double" в "float"
+  Tab01_2.vcxproj -> C:\Users\student\source\repos\Tab01\Tab01_2\x64\Debug\Tab01_2.exe
