@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\file",
-    "\\Tab01_2",
-    "\\Tab01_2\\x64"
+    "\\ConsoleApplication1",
+    "\\file"
   ],
-  "SelectedNode": "\\file\\file.cpp",
+  "SelectedNode": "\\ConsoleApplication1\\ConsoleApplication1.cpp",
   "PreviewInSolutionExplorer": false
 }
